@@ -1,5 +1,4 @@
 #!/bin/sh
 set -e
 echo "running markdownlint"
-which mdl
-sh -c "$*"
+sh -c "mdl $*"
