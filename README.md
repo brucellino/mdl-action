@@ -1,2 +1,5 @@
 # mdl-action
-GitHub Action for markdown lint (ruby)
+
+[![Docker Repository on Quay](https://quay.io/repository/brucellino/mdl-action/status "Docker Repository on Quay")](https://quay.io/repository/brucellino/mdl-action)
+
+GitHub Action for markdown lint (ruby).
