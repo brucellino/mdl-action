@@ -1,4 +1,4 @@
-FROM ruby:3.2.2-slim
+FROM ruby:3.3.0-slim
 
 LABEL "com.github.actions.name"="GitHub Action for Markdown Lint"
 LABEL "com.github.actions.description"="Run Markdownlint comands"
